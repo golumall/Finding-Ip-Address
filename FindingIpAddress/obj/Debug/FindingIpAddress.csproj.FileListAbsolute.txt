@@ -1,0 +1,11 @@
+E:\RealTimeProjects\WindowApp\FindingIpAddress\FindingIpAddress\bin\Debug\FindingIpAddress.exe.config
+E:\RealTimeProjects\WindowApp\FindingIpAddress\FindingIpAddress\bin\Debug\FindingIpAddress.exe
+E:\RealTimeProjects\WindowApp\FindingIpAddress\FindingIpAddress\bin\Debug\FindingIpAddress.pdb
+E:\RealTimeProjects\WindowApp\FindingIpAddress\FindingIpAddress\obj\Debug\FindingIpAddress.csprojResolveAssemblyReference.cache
+E:\RealTimeProjects\WindowApp\FindingIpAddress\FindingIpAddress\obj\Debug\FindingIpAddress.Form1.resources
+E:\RealTimeProjects\WindowApp\FindingIpAddress\FindingIpAddress\obj\Debug\FindingIpAddress.Form2.resources
+E:\RealTimeProjects\WindowApp\FindingIpAddress\FindingIpAddress\obj\Debug\FindingIpAddress.Properties.Resources.resources
+E:\RealTimeProjects\WindowApp\FindingIpAddress\FindingIpAddress\obj\Debug\FindingIpAddress.csproj.GenerateResource.Cache
+E:\RealTimeProjects\WindowApp\FindingIpAddress\FindingIpAddress\obj\Debug\FindingIpAddress.exe
+E:\RealTimeProjects\WindowApp\FindingIpAddress\FindingIpAddress\obj\Debug\FindingIpAddress.pdb
+E:\RealTimeProjects\WindowApp\FindingIpAddress\FindingIpAddress\obj\Debug\FindingIpAddress.Form3.resources
